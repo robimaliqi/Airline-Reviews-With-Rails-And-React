@@ -21,8 +21,6 @@ Things you may want to cover:
 
 - Deployment instructions
 
-- ...
-
 Models that we need for our app:
 
 Airlines, and our airlines are going to have many reviews, so we are going to have a Airline model and a Review model.
