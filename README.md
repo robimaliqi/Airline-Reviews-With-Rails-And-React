@@ -26,3 +26,7 @@ Models that we need for our app:
 Airlines, and our airlines are going to have many reviews, so we are going to have a Airline model and a Review model.
 
 ![Diagram](./public/Model-Diagram.png)
+
+Other tool used:
+
+Fast JSON API
